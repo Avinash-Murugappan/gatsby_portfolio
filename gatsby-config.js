@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Avinash | Software Engineer`,
-    description: `I’m Avinash Murugappan, a software engineer based in the United States skilled in building and designing awesome websites, web applications, mobile applications and everything in between.`,
+    title: `Avinash | Full-Stack Developer`,
+    description: `I’m Avinash Murugappan, a full stack developer based in the United States skilled in building and designing awesome websites, web applications, mobile applications and everything in between.`,
     author: `Avinash`,
     siteUrl: 'https://avicodes.netlify.app/',
     social: {
       twitter: 'avinash___27',
       instagram: 'avi_codes',
-      linkedin: 'avinash-murugappan-73b901164/',
+      linkedin: 'avinash-a-murugappan-73b901164/',
       youtube: 'channel/UCIofTJ17ajY1rlpo2dsTpTw',
       facebook: 'avinash.arunachalam/',
       github: 'Avinash-Murugappan',
@@ -45,7 +45,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-webfonts`,
       options: {
-        fonts:{ 
+        fonts:{
           google:[
           {
             family: `Montserrat`,

@@ -106,7 +106,7 @@ const Home = () => {
               I'm <span>Avinash</span>
             </Title>
             <SubTitle style={SubTitleSpring}>
-              A <WordsFading /> Software developer
+              A <WordsFading /> Full-Stack developer
             </SubTitle>
             <Link to="about-me" spy={true} smooth={true}>
               <Button style={ButtonSpring}>About me</Button>
